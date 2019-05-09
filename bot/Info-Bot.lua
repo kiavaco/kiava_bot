@@ -1,11 +1,11 @@
-bot_token = "679719822:AAFHBjoeZnEWuVlkpPBge9bnAVFBWt4DcFA" -- توکن رباتُ
-channel_username = '@TeleDiamondCh' -- آیدی کانال
-channel_inline = 'TeleDiamondCh' -- آیدی کانال بدون @
-sudo_username = '@Mrr619' -- آیدی سازنده ربات
+bot_token = "833421033:AAH1724bnzJfKOlfgmRB2qctY0Vtd-nLKwY" -- توکن رباتُ
+channel_username = '@kiavair' -- آیدی کانال
+channel_inline = 'kiavair' -- آیدی کانال بدون @
+sudo_username = '@kiavaco' -- آیدی سازنده ربات
 gp_sudo = -1001169822752 -- آیدی گروه سودو ها
-SUDO = 219201071 -- آیدی سودو اصلی
-BotMaTaDoR_id = 605046353 --آیدی ربات cli
-BotMaTaDoR_idapi = 679719822 --آیدی ربات api
+SUDO = 247134702 -- آیدی سودو اصلی
+BotMaTaDoR_id = 649696118 --آیدی ربات cli
+BotMaTaDoR_idapi = 833421033 --آیدی ربات api
 RedisIndex = 'Mrr619' -- شماره ردیس
 EndPm = " ツ"
 --######################################################################--
